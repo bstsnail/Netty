@@ -6,3 +6,5 @@ Hibernate as JPA operate mysql database. And Druid manage database connection po
 Redis as cache to store online user list and something else.
 update
 update
+
+test
